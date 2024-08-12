@@ -1,0 +1,7 @@
+the landing page is register, so you can register first if not have a account
+
+the admin account cannot register so you must initial first in the database table user column usertype change to admin
+
+this image is store to folder storage/app/public/book-image and pdf is store to folder storage/app/public/pdf-file
+
+this is using laravel framwork and tailwind framework so run the npm run dev to activate the tailwind, and then php migrate serve
